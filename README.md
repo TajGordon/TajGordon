@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TajGordon
 - 👀 I’m interested in coding, gaming, and chess.
-- 🌱 I’m currently learning Js and Rust
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
